@@ -1,6 +1,6 @@
 {
   "name": "req-fix-hostname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set req.hostname to the value of a header",
   "main": "index.cjs",
   "scripts": {
